@@ -4,6 +4,7 @@ function App() {
 
   return (
     <>
+      
       <div className="container">
           <p className="description">ART-DRIVEN CONSULTING AND PRODUCTION FOR BRANDS, GALLERIES AND CREATIVE LEADERS</p>
           <div className="container-footer">
