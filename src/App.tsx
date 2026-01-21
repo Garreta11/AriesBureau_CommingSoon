@@ -10,7 +10,6 @@ function App() {
               <img src="./logo-black.svg" alt="Random Image" />
           </div>
       </div>
-
       <div className="footer">
           <p>website coming soon</p>
           <a href="mailto:adele@ariesbureau.com" target="_blank" className="email">
